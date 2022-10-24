@@ -1,0 +1,10 @@
+.block {
+  background-color: #b2d235;
+  min-width: 500px;
+  margin: 0 auto;
+  padding: 5px 20px;
+}
+.text {
+  border: 2px solid #fff;
+  padding: 15px 20px;
+}

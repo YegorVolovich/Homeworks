@@ -1,0 +1,18 @@
+.square {
+  list-style-type: square;
+}
+.question {
+  list-style-type: none;
+}
+.question li::before {
+  content: "?";
+}
+
+.book {
+  list-style-image: url(/style/book.png);
+}
+
+.inline-block li {
+  display: inline-block;
+  padding: 10px;
+}

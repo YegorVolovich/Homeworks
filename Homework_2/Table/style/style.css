@@ -1,0 +1,14 @@
+.ninja {
+  background-color: #ececec;
+  padding: 0.5rem;
+}
+
+.ninja-distance {
+  border-spacing: 4px;
+}
+.ninja-distance td {
+  background-color: #4c715b;
+  color: #fff;
+  padding: 10px;
+  border-spacing: 4px;
+}
