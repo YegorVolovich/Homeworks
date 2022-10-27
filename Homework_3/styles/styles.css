@@ -1,0 +1,76 @@
+.task1 li {
+  padding-left: 10px;
+}
+.task2 {
+  margin: 0;
+  padding: 0;
+}
+.task3 {
+  width: 100%;
+  border-collapse: collapse;
+}
+.task3 td {
+  border-top: 1px solid #b5bdff;
+  border-bottom: 1px solid #b5bdff;
+}
+.task4 {
+  width: 90%;
+  margin: 0 auto;
+}
+.task4 td,
+th {
+  padding: 0.5rem;
+  border: 1px solid #000;
+  text-align: center;
+}
+.frame {
+  max-width: 500px;
+  background-color: darkkhaki;
+  padding: 10px;
+}
+.frame-text {
+  text-align: center;
+  border: 3px solid #fff;
+  padding-top: 30px;
+  vertical-align: top;
+  padding-top: 20px;
+}
+.table-task {
+  width: 80%;
+  background-color: #b6dec2;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+.table-task td {
+  text-align: left;
+  padding: 15px;
+}
+.table-task th {
+  text-align: center;
+  padding: 15px;
+}
+.table-task td,
+th {
+  border: 1px solid #fff;
+  text-align: center;
+}
+.table-task tr:first-child {
+  text-align: center;
+  font-weight: bold;
+}
+
+.miracles {
+  width: 80%;
+  padding-left: 0;
+  background-color: #b28978;
+}
+.miracles li {
+  color: #fff;
+  padding: 1rem;
+  border: 1px solid #fff;
+}
+
+.miracles {
+  border-radius: 20px;
+}
